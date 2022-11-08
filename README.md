@@ -15,4 +15,5 @@
  12. работа с логическими операциями в python
  13. automouse
  14. формула логического закона 4 на LaTex
+ $$(A\vee B) \vee C= A \vee (B \vee C)$$
 ![image](https://user-images.githubusercontent.com/114457110/200458314-38c90154-96e8-4ef6-8352-3280d19e79af.png)
