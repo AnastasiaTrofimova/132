@@ -17,3 +17,8 @@
  14. формула логического закона 4 на LaTex
  $$(A\vee B) \vee C= A \vee (B \vee C)$$
 ![image](https://user-images.githubusercontent.com/114457110/200458314-38c90154-96e8-4ef6-8352-3280d19e79af.png)
+&&\upsilon_2=\sqrt{2G\frac{M}{R_{0}}}&&
+
+&&E_{св}=(Zm_p+Nm_n+m_я)c^2&&
+
+&&\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{3}}_1+\beta^{\frac{2}{3}}_2&&
