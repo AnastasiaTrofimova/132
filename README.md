@@ -22,6 +22,9 @@ $$\upsilon_2=\sqrt{2G\frac{M}{R_{0}}}$$
 $$E_{св}=(Zm_p+Nm_n+m_я)c^2$$
 
 $$\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)x}}+\alpha^{\frac{1}{3}}_1+\beta^{\frac{2}{3}}_2$$
+
 ![image](https://user-images.githubusercontent.com/114457110/200717165-08c22797-0a7b-42fe-a39d-932c8dd2d5c7.png)
+
 ![image](https://user-images.githubusercontent.com/114457110/200717293-d4390a39-7779-4188-97a9-00ff8cf675ed.png)
+
 ![image](https://user-images.githubusercontent.com/114457110/200717340-b6710486-2a57-4daf-a263-80aed4c46552.png)
