@@ -28,3 +28,5 @@ $$\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_1+\
 ![image](https://user-images.githubusercontent.com/114457110/200717293-d4390a39-7779-4188-97a9-00ff8cf675ed.png)
 
 ![image](https://user-images.githubusercontent.com/114457110/200723566-4e70067a-4574-4bd0-8424-905a8f87648a.png)
+voprosi = ['Как с французкого языка перевдится quatre?','Как на француском сказать полиция?','Как переводится с французкого языка Je n’ai fait rien de mal?','Как переводится "красный" на французкий язык?','Как на французком сказать "четверг"?']
+otveti = ['Четыре', 'police','Я не сделал ничего плохого','']
