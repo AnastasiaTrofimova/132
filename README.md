@@ -15,6 +15,10 @@
  12. работа с логическими операциями в python
  13. automouse
  14. формула логического закона 4 на LaTex
+ 15. Презентация с картинками
+ 16. Программа по решению задачь на кодирование 
+ 17. Викторина 
+
  $$(A\vee B) \vee C= A \vee (B \vee C)$$
 ![image](https://user-images.githubusercontent.com/114457110/200458314-38c90154-96e8-4ef6-8352-3280d19e79af.png)
 $$\upsilon_2=\sqrt{2G\frac{M}{R_{0}}}$$
@@ -28,6 +32,3 @@ $$\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_1+\
 ![image](https://user-images.githubusercontent.com/114457110/200717293-d4390a39-7779-4188-97a9-00ff8cf675ed.png)
 
 ![image](https://user-images.githubusercontent.com/114457110/200723566-4e70067a-4574-4bd0-8424-905a8f87648a.png)
-15.  Презентация с картинками
-16.  Программа по решению задачь на кодирование 
-17.  Викторина 
