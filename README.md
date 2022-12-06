@@ -38,8 +38,8 @@ $$\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_1+\
 ```mermaid
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|Переводные экзамены| B(11 класс)
+B --> C{ЕГЭ}
+C -->|Хорошо| D[ВУЗ]
+C -->|Плохо| E[Замужество]
 ```
