@@ -35,21 +35,14 @@ $$\overline{E^2_1}=\sqrt{\frac{Fa^{x-1}}{(x-1)\cdot x}}+\alpha^{\frac{1}{3}}_1+\
 ![image](https://user-images.githubusercontent.com/114457110/200723566-4e70067a-4574-4bd0-8424-905a8f87648a.png)
 [![](https://mermaid.ink/img/pako:eNplj7EKwkAMhl8lZO4i4nKzoEunrl1CL2ps71KuOUoR392zKihmCvl-_o_csFPP6PCqOUVe2ghlTGxgqBeYNfUSz-DpTSbuTDTCQcEUBulkCS8CUFPPYEwOdg5q_pxLNI-TkaTJwfab7HUVONg8rxUcGf4sFw3fTV7n-On6sTRiK3wrsMLAKZD48tvtGWrRLly60JXV84nyYC228V6ilE2bJXboLGWuMI-ejPdC50QB3YmGie8P6A5dFQ?type=png)](https://mermaid.live/edit#pako:eNplj7EKwkAMhl8lZO4i4nKzoEunrl1CL2ps71KuOUoR392zKihmCvl-_o_csFPP6PCqOUVe2ghlTGxgqBeYNfUSz-DpTSbuTDTCQcEUBulkCS8CUFPPYEwOdg5q_pxLNI-TkaTJwfab7HUVONg8rxUcGf4sFw3fTV7n-On6sTRiK3wrsMLAKZD48tvtGWrRLly60JXV84nyYC228V6ilE2bJXboLGWuMI-ejPdC50QB3YmGie8P6A5dFQ)
 
-```mermaid
-flowchart LR
 
-A[10 класс] -->|Переводные экзамены| B(11 класс)
-B --> C{ЕГЭ}
-C -->|Хорошо| D[ВУЗ]
-C -->|Плохо| E[Замужество]
-```
 ```mermaid
 flowchart LR
 
 A[10 класс] -->|Переводные экзамены| B(11 класс)
 B --> C{ЕГЭ}
 C-->K[Выгнали]
-K-->|Пересдача| С
+K-->|Пересдача| C
 C--> D{Парень}
 D-->|Плохо| H[Армия]
 D-->|Хорошо| F[ВУЗ]
