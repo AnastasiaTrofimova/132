@@ -54,3 +54,148 @@ for x in rang(1,9):
     goto (x*30, y*30)
     dot(5)
 done()
+
+def f5():
+    for i in range (1,100):
+        chislo=''
+        num=(bin(I)[2:])
+        if num.count('1')%==0:
+            chislo=num+'100'
+        if num.count('1')%2!=0:
+            chislo=num+'001'
+        if int(chislo,2)>160:
+            print (i, int(chislo,2))
+            break
+            
+
+
+
+def f6():
+from turtle import *
+left(90)
+k=20
+for i in range(1):
+    forward(15*k)
+    right(90)
+    forward(15*k)
+    left(45)
+    goto(0,0)
+pu()
+for x in range(0,16):
+    for y in range(0,16):
+        goto(x*k,y*k)
+        dot(10)
+done()
+
+def f5():
+    for i in range (1,100):
+        chislo=''
+        num=(bin(I)[2:])
+        if num.count('1')%==0:
+            chislo=num+'100'
+        if num.count('1')%2!=0:
+            chislo=num+'001'
+        if int(chislo,2)>160:
+            print (i, int(chislo,2))
+            break
+            
+
+
+
+
+from turtle import *
+left(90)
+k=20
+for i in range(1):
+    forward(15*k)
+    right(90)
+    forward(15*k)
+    left(45)
+    goto(0,0)
+pu()
+for x in range(0,16):
+    for y in range(0,16):
+        goto(x*k,y*k)
+        dot(10)
+done()
+
+def f5():
+    for i in range (1,100):
+        chislo=''
+        num=(bin(I)[2:])
+        if num.count('1')%==0:
+            chislo=num+'100'
+        if num.count('1')%2!=0:
+            chislo=num+'001'
+        if int(chislo,2)>160:
+            print (i, int(chislo,2))
+            break
+            
+
+
+def f5():
+    for i in range (1,100):
+        chislo=''
+        num=(bin(I)[2:])
+        if num.count('1')%==0:
+            chislo=num+'100'
+        if num.count('1')%2!=0:
+            chislo=num+'001'
+        if int(chislo,2)>160:
+            print (i, int(chislo,2))
+            break
+            
+
+
+
+
+from turtle import *
+left(90)
+k=20
+for i in range(1):
+    forward(15*k)
+    right(90)
+    forward(15*k)
+    left(45)
+    goto(0,0)
+pu()
+for x in range(0,16):
+    for y in range(0,16):
+        goto(x*k,y*k)
+        dot(10)
+done()
+
+
+from itertools import product
+nums=product('01234567',repeat=6)
+k=0
+n='04 24 64 46 42 40'
+nn=n.split()
+for n in nums:
+    numb=' '.join(n)
+    sp=[ ]
+    if numb.count('4')==1 and numb[0] !='0':
+        for x in nn:
+            if x in numb:
+                sp.append(x)
+        if not sp:
+            k+=1
+            
+print(k)
+
+
+from turtle import *
+left(90)
+k=20
+for i in range(1):
+    forward(15*k)
+    right(90)
+    forward(15*k)
+    left(45)
+    goto(0,0)
+pu()
+for x in range(0,16):
+    for y in range(0,16):
+        goto(x*k,y*k)
+        dot(10)
+done()
