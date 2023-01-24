@@ -199,3 +199,31 @@ for x in range(0,16):
         goto(x*k,y*k)
         dot(10)
 done()
+
+def 12():
+    spisok=[]
+for i in range(2,1000):
+  n=0
+  for x in range (2,100):
+    if i%x==0:
+        n+=1
+  if n==0:spisok.append(i)
+flag=False
+for i in spisok:
+    for y in range (100):
+        if y*4+117==i and flag==False:
+            print(y)
+            flag=True
+ 
+ def 14():
+    a='0123456789abcde'
+for x in a:
+    f=int(f'123{x}5',15)+int(f'1{x}233',15)
+    if  f%14 ==0:
+        print(x,f//14)
+        breaka='0123456789abcde'
+for x in a:
+    f=int(f'123{x}5',15)+int(f'1{x}233',15)
+    if  f%14 ==0:
+        print(x,f//14)
+        break
