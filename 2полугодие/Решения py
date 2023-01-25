@@ -239,3 +239,17 @@ for x in a:
     if  f%14 ==0:
         print(x,f//14)
         break
+
+ def(15):
+   for a in range(1,1000):
+    flag=True
+    for x in range(1,1000):
+        if ((x%2==0) <= (x%3!=0)) or (x+a>=100):
+            flag=True
+        else:
+            flag=False
+            break
+    if flag: 
+        print(a)
+        break
+   if all (((x%2==0)<=(x%3!=0))/(x+A>=100) for x in range (1,100)):
