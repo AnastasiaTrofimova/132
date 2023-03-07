@@ -50,3 +50,28 @@ C-->E{Девушка}
 E -->|Хорошо| F[ВУЗ]
 E -->|Плохо| G[Замужество]
 ```
+
+
+
+
+
+print)
+2) for i in range ()
+3) int ()
+4)str()
+5)if else elif
+6)readline
+7)with open
+8) import
+9)max
+10)min
+11)return
+12) def
+13) dot ()
+14) goto ()
+15) up()
+16) down ( )
+17)right()
+18) not
+19)list.append
+20) input
