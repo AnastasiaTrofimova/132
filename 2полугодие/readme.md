@@ -124,3 +124,28 @@ from turtle import * использование программы
 48) n=''.join(s) был список и мы получаем все символы в строчку разделяя или не разделяя их чем-то 
  s =[]  создать пустой список 
  s = [0] вызов первого эжлемента списка  
+ 
+ 
+ 
+ 
+ 
+ 
+ 27:
+ with open('27_A.txt') as f:
+    n=[ x for x in f ]
+n.pop(0)
+sp = []
+for i in n:
+    sp.append (list(map(int, i.split())))
+k =[]
+for i in range (len(sp)):
+    if sp [i][1] % 36==0:
+       k.append(sp [i][1]//36)
+    else:
+        k.append((sp [i][1]//36)+1)
+ind=[]        
+for i in range (len(sp)):
+    ind.append(sp [i][0])
+sp=list(zip(ind,k))
+        
+print (sp)
